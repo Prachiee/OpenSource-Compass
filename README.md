@@ -8,11 +8,31 @@
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/sayeeg-11/OpenSource-Compass)
 [![GitHub Issues](https://img.shields.io/github/issues/sayeeg-11/OpenSource-Compass)](https://github.com/sayeeg-11/OpenSource-Compass/issues)
 [![GitHub License](https://img.shields.io/github/license/sayeeg-11/OpenSource-Compass)](LICENSE)
+
+<img src="https://img.shields.io/badge/SWOC-2026-blueviolet?style=for-the-badge&logo=rocket" alt="SWOC 2026">
+<img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=github" alt="PRs Welcome">
+<img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License">
+
 </div>
 
 ## ❄️ Social Winter of Code (SWOC) 2026
 
 **Social Winter of Code (SWOC)** is a winter-long open-source program that mentors students through meaningful, real-world contributions.
+
+---
+## 📍 Table of Contents
+<div align="left">
+  
+- [📖 About the Project](#-about-opensource-compass)
+- [🎯 Vision & Objectives](#-project-vision--objectives)
+- [✨ Key Features & Learning Paths](#-key-features--learning-paths)
+- [🛠 Tech Stack](#-tech-stack)
+- [📂 Project Structure](#-project-structure)
+- [🚀 Getting Started](#-getting-started)
+- [👥 Team & Mentors](#-team--swoc26)
+- [📜 License](#-license)
+
+</div>
 
 ---
 
@@ -35,37 +55,32 @@ No jargon. No confusion. Just clear steps to help you start contributing with co
 
 ---
 
-## 📖 What You’ll Learn
+## ✨ Key Features & Learning Paths
 
-| 📖 Guides | 🎥 Resources | 💬 Community |
-|---------|-------------|-------------|
-| Step-by-step tutorials | Video lessons | Peer support |
-| Do’s & Don’ts | Articles & tips | Mentorship |
-| Real examples | Learning paths | Collaboration |
-
----
-
-## ✨ Key Features
-
-- 🔰 **Beginner-friendly guides**  
-- 🚀 **Quick start in under 5 minutes**  
-- 🎓 **Git & GitHub from basics to confidence**  
-- 📚 **Curated videos & articles**  
-- 🌟 **Program info (SWOC, GSSoC, GSoC, etc.)**  
-- 🤝 **Supportive community**
+| Feature | Description | Benefit |
+| :--- | :--- | :--- |
+| 🔰 **Beginner Guides** | Step-by-step Git & GitHub tutorials | Build confidence from scratch |
+| 🚀 **Quick Start** | Setup guide in under 5 minutes | Start contributing immediately |
+| 🎓 **Program Info** | Roadmap for GSoC, SWOC, GSSoC | Find your next big opportunity |
+| 🤝 **Supportive Community** | Peer support and mentor reviews | Never get stuck alone |
 
 ---
 
 ## 🛠 Tech Stack
 
-- **HTML5** – Clean & semantic structure  
-- **CSS3** – Modern, responsive styling  
-- **JavaScript** – Interactive functionality  
-- **JSON** – Lightweight data handling  
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A033?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
 ---
 
 ## 📂 Project Structure
+<div align="left">
 
 
 
@@ -200,7 +215,6 @@ OPENSOURCE-COMPASS/
 ---
 
 ### 🧑‍🏫 Mentors
-##
 
 | Name | Role | GitHub | LinkedIn |
 |----|----|------|---------|
@@ -219,9 +233,11 @@ OPENSOURCE-COMPASS/
 ### 💖 Contributors  
 Thanks to these amazing people who have contributed to **OpenSource Compass** ✨  
 
-<a href="https://github.com/sayeeg-11/OpenSource-Compass/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=sayeeg-11/OpenSource-Compass" alt="Contributors" />
-</a>
+<div align="center"> 
+  <a href="https://github.com/sayeeg-11/OpenSource-Compass/graphs/contributors"> 
+    <img src="https://contrib.rocks/image?repo=sayeeg-11/OpenSource-Compass" /> 
+  </a> 
+</div>
 
 <br/><br/>
 
@@ -236,7 +252,8 @@ Thanks to these amazing people who have contributed to **OpenSource Compass** �
 ## 🤝 Contribution Guidelines (SWOC’26)
 
 ### How to Contribute
-
+<div align="left">
+  
 1. Browse the **Issues** section  
 2. Comment on the issue you want to work on  
 3. Wait for assignment  
@@ -456,6 +473,8 @@ Big thanks to everyone contributing! You make this awesome! 💖
 ## 🚀 Quick Links
 
 [Repository](https://github.com/sayeeg-11/OpenSource-Compass) | [Issues](https://github.com/sayeeg-11/OpenSource-Compass/issues) | [Pull Requests](https://github.com/sayeeg-11/OpenSource-Compass/pulls)
+
+</div>
 
 ---
 
