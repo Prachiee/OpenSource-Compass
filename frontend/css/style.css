@@ -36,10 +36,13 @@ body {
   font-family: "Crimson Text", "Georgia", serif;
   font-size: 15px;
   line-height: 1.7;
-  background: linear-gradient(135deg,
-      var(--light-parchment) 0%,
-      var(--warm-cream) 100%);
+  background: linear-gradient(
+    135deg,
+    var(--light-parchment) 0%,
+    var(--warm-cream) 100%
+  );
   color: var(--charcoal-dark);
+  padding-top: 90px;       
 }
 
 /* =========================
@@ -51,8 +54,10 @@ header {
   backdrop-filter: saturate(180%) blur(20px);
   border-bottom: 3px solid var(--primary-gold);
   padding: 1rem 6%;
-  position: sticky;
+  position: fixed;
   top: 0;
+  left: 0;
+  width: 100%;              
   z-index: 1000;
   box-shadow: var(--shadow-main);
 }
