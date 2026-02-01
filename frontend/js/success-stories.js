@@ -252,7 +252,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 story: formData.get('story'),
                 prs: parseInt(formData.get('prs')) || 0,
                 year: parseInt(formData.get('year')) || new Date().getFullYear(),
-                avatar: formData.get('avatar') || `https://api.dicebear.com/7.x/avataaars/svg?seed=${formData.get('name')}`,
+                avatar: formData.get('avatar') || `https://api.dicebear.com/7.x/avataaars/svg?seed=${encodeURIComponent(formData.get('name') || '')}`,
                 badge: 'star',
                 likes: 0,
                 comments: []
